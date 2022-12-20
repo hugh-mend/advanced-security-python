@@ -1,5 +1,6 @@
 import os
 import sqlite3
+import numpy
 
 from flask import Flask
 
